@@ -5,7 +5,7 @@
 ## 1. Thông tin sinh viên
 - **Họ và tên**: Phạm Anh Tuấn
 - **Mã sinh viên**: B23DCCN891
-- **Lớp**: D23CQCN01-B
+- **Lớp**: D23CQCN09-B
 - **Môn học**: Lập trình Hệ thống IoT / Mạng máy tính
 
 ---
